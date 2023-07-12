@@ -1,0 +1,19 @@
+# 文件夹
+demo/
+3dpw_eval/
+3DWP/
+output/
+output_male/
+output2/
+SSP_3D/
+ssp3d_eval/
+testimgs/
+testimgs2/
+**/__pycache__
+util_scale/**.obj
+model_files/
+cub-1.10.0
+
+# 文件
+1.10.0.tar.gz
+teaser.gif
